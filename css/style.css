@@ -5,14 +5,13 @@
 
 .head img{
     width: 500px;
-    height: 500px;
+    height: 400px;
    object-fit: cover;
-    border-radius: 50%;
 }
 
 .about img{
     height: 500px;
     width: 100%;
-    object-fit: cover;
+    object-fit: ;
 }
 
