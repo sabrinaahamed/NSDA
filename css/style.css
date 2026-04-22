@@ -1,0 +1,18 @@
+.carousel-item img{
+    height: 600px;
+    object-fit: cover;
+}
+
+.head img{
+    width: 500px;
+    height: 500px;
+   object-fit: cover;
+    border-radius: 50%;
+}
+
+.about img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+
